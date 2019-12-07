@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "832925604383",
+    "firebase_url": "https://fir-auth-b8c25.firebaseio.com",
+    "project_id": "fir-auth-b8c25",
+    "storage_bucket": "fir-auth-b8c25.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832925604383:android:6be36669b3cc52b0",
+        "android_client_info": {
+          "package_name": "com.example.messenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "832925604383-4vn5e3tdjokpil18grm8rr2k4fe3km3f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.messenger",
+            "certificate_hash": "0930f6ef5a758de6c7d57325781eb91c5988f979"
+          }
+        },
+        {
+          "client_id": "832925604383-jbs4smd234vj1ihft81d8vq1gcpqb84m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvScXi9rcsA5UYyc86AQauh-h9tK0e4ak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "832925604383-jbs4smd234vj1ihft81d8vq1gcpqb84m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
